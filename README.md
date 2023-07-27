@@ -1,5 +1,5 @@
 
-# Proposed Office Amenities for Enhanced Productivity and Happiness
+# RFC: Proposed Office Amenities for Enhanced Productivity and Happiness
 
 This document provides suggestions for potential additions to our office environment that could enhance the overall productivity and happiness of the team. Each proposed item is discussed in detail, considering its benefits, possible drawbacks, and financial implications.
 
